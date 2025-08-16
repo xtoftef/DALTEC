@@ -1,0 +1,2 @@
+DISCLAIMER
+This project is in no way supported or funded by Discord or the developers of the Arcane bot. It is a small personal project I am undertaking on my own.
