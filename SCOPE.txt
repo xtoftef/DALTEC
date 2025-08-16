@@ -1,0 +1,12 @@
+Below are the features I currently work on:
+- More in depth and accurate algorithm for a better estimate
+- inclusion of the main leveling settings on the bot's dashboard(only support for linear curve and x1 multiplier)
+- Taking into account roles and their respective boosts
+- message xp calculator
+- voice xp calculator
+
+
+Future plans:
+- GUI application
+- ability for the user to save their own presets for the settings and reuse them as needed.
+- possibly making a script for a standalone Discord bot making use of an adapted version of this script.
