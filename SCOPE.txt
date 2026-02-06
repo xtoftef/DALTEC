@@ -1,10 +1,12 @@
-Below are the features I currently work on:
+The changes below were successfully implemented in the latest udpate:
 - More in depth and accurate algorithm for a better estimate
 - inclusion of the main leveling settings on the bot's dashboard(only support for linear curve and x1 multiplier)
 - Taking into account roles and their respective boosts
 - message xp calculator
 - voice xp calculator
 
+In the works:
+- GUI python file using Tkinter (will likely have a separate branch of its own)
 
 Future plans:
 - GUI application
